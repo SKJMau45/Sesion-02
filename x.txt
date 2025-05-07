@@ -1,0 +1,48 @@
+ Lenguajes de Programación
+            Un lenguaje de programación es un lenguaje formal (o artificial, es decir, un lenguaje con reglas 
+                gramaticales bien definidas)que le proporciona a una persona, en este caso el 
+                programador la capacidad de escribir (o programar) una serie de instrucciones 
+                o secuencias de órdenes en forma de 
+              algoritmoscon el fin de controlar el comportamiento físico o 
+                lógico de un sistema informático, de manera que se puedan obtener diversas clases de datos o ejecutar 
+                determinadas tareas.
+
+            Clasificación de los lenguajes de programación
+            Los lenguajes de programación han sido históricamente clasificados atendiendo a distintos criterios:
+            
+                Clasificación histórica
+                A medida que surgían nuevos lenguajes que permitían nuevos estilos de programación más expresiva, se distinguieron 
+                dichos estilos en una serie de generaciones, cada una representando lenguajes de programación surgidos en una época
+                similar y con características genéricas comunes.
+                Lenguajes de alto y de bajo nivel
+               
+                Los lenguajes de programación se suelen clasificar dentro de dos amplias categorías que se refieren a su 
+                "nivel de abstracción", es decir, en cuanto a lo específico o general que es respecto a la arquitectura de 
+                computación inherente al sistema que se está utilizando.
+
+                Los paradigmas de programación distinguen distintos modelos de cómputo y de estilos de estructurar y organizar 
+                las tareas que debe realizar un programa. Un lenguaje de programación puede ofrecer soporte a uno o varios 
+                paradigmas de programación, total o parcialmente.
+
+                Se distinguen los lenguajes de programación de propósito general de aquellos de propósito específico.
+ 
+            Variable
+            Las variables son títulos asignados a espacios en memoria para almacenar datos específicos. Son contenedores de datos y por ello se diferencian 
+			según el tipo de dato que son capaces de almacenar
+
+
+                        Tipo de dato
+                        Descripcion
+ 
+                        Char
+                        Estas variables contienen un único carácter, es decir, una letra, un signo o un número.  
+                        Int
+                        Contienen un número entero.   
+                        Float
+                        Contienen un número decimal.   
+
+                        String
+                        Contienen cadenas de texto, o lo que es lo mismo, es un vector con varias variables del tipo Char.  
+
+                        Boolean
+                        Solo pueden contener un cero o un uno. 
